@@ -1,0 +1,16 @@
+.light{
+    width: 600px;
+    margin: 0 auto;
+background: url(https://m.media-amazon.com/images/I/71p3EjKdaZL._AC_UF894,1000_QL80_.jpg); 
+   background-repeat: no-repeat;
+    background-position: left;
+    object-fit: cover;
+}
+.black{
+    width: 600px;
+    margin: 0 auto;
+    background: url(https://cdn.pixabay.com/photo/2021/11/01/22/10/night-6761907_640.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
